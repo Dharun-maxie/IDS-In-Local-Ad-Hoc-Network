@@ -1,0 +1,9 @@
+[autorun]
+OPEN=OInstall.exe
+ICON=OInstall.exe,0
+
+shell\configure=&Configure...
+shell\configure\command=OInstall.exe
+
+shell\install=&Install...
+shell\install\command=OInstall.exe

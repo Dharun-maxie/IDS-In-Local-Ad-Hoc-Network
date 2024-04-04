@@ -1,0 +1,35 @@
+registration
+name,address,aadharno,ebno,mobileno,type
+
+power shutdown details
+sdate,starttime,endtime,street,district,state
+
+tariff calculation
+==========
+type 
+unit range
+cost
+
+
+Complaint
+EBNo,MNO,State,District,Street,Complaint,Date
+
+ebbill details
+ebno,month,year,reading,amount,lastdateforpay
+
+new connection details
+name,area,doorno,street,district,state,land discription,land type
+
+admin
+====
+tarrif ,shutdown,member details,new connection,eb reading,view Complaint
+
+user
+===
+complaint,reading details
+
+common
+=====
+shutdown details,new application form,tarrif details
+
+tarrif completed,shutdown completed,complaint
